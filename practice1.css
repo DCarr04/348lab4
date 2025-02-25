@@ -1,9 +1,9 @@
-.my_picture{
-    width: 150px;
-    height: 300px;
-}
-
 p{
     color: red;
     font-size: 18px;
+}
+
+.my_picture{
+    width: 150px;
+    height: 300px;
 }
