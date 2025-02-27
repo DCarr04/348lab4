@@ -15,7 +15,7 @@ function print_To_Console(){
     console.log(input2.value);
 }
 
-function changeColort(){
+function changeColor(){
     var colorInput = document.getElementById("textColor");
     document.getElementById("tColor").style.color = colorInput;
 }
