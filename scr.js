@@ -14,3 +14,11 @@ function print_To_Console(){
     console.log(input1.value);
     console.log(input2.value);
 }
+
+function changeColort(){
+    var colorInput = document.getElementById("textColor");
+}
+
+function changeFont(){
+
+}
