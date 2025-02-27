@@ -17,7 +17,7 @@ function print_To_Console(){
 
 function changeColor(){
     var colorInput = document.getElementById("textColor");
-    document.getElementById("tColor").style.color = colorInput;
+    document.getElementById("textColor").style.color = colorInput;
 }
 
 function changeFont(){
