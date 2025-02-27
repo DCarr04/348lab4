@@ -23,3 +23,8 @@ label{
     color: rgb(2, 120, 106);
     font-size: 25px;
 }
+
+label#tColor{
+    color: red;
+    font-size: 25px;
+}
