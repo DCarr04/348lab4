@@ -24,11 +24,11 @@ label{
     font-size: 25px;
 }
 
-label#tColor{
+label#textColor{
     color: red;
     font-size: 25px;
 }
-label#fSize{
+label#fontSize{
     color: red;
     font-size: 25px;
 }
