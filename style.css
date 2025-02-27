@@ -3,6 +3,10 @@ p{
     font-size: 18px;
 }
 
+p#p2{
+    color: red;
+}
+
 .my_picture{
     width: 150px;
     height: 300px;
