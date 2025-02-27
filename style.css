@@ -12,3 +12,9 @@ label{
     color: rgb(2, 120, 106);
     font-size: 25px;
 }
+
+h1#Header {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
